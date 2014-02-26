@@ -1,0 +1,10 @@
+{
+    "name": "mysql",
+    "version": "0.0.1",
+    "assets": {
+        "adapters": ["mysql.js"]
+    },
+    "run": [
+        "npm install mysql@2.1.0 -save"
+    ]
+}
